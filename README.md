@@ -140,7 +140,7 @@ O Provedor de Serviços está preocupado em proteger a confidencialidade de suas
 
 Esta Política de Privacidade pode ser atualizada de tempos em tempos por qualquer motivo. O Provedor de Serviços notificará você sobre quaisquer alterações na Política de Privacidade atualizando esta página com a nova Política de Privacidade. É aconselhável consultar esta Política de Privacidade regularmente para quaisquer alterações, pois o uso contínuo é considerado aprovação de todas as alterações.
 
-Esta política de privacidade é efetiva a partir de 2024-10-13
+Esta política de privacidade é efetiva a partir de 13-10-2024
 
 **Seu Consentimento**
 
